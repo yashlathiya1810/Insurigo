@@ -1,0 +1,380 @@
+/* start banner  */
+@media screen and (max-width: 1024px) {
+    .banner_main_title {
+        font-size: 40px !important;
+        line-height: 50px !important;
+    }
+}
+
+/* @media screen and (max-width: 1024px) {
+    .main_manu > li {
+       display: flex !important;
+       align-items: center !important;
+       justify-content: space-between !important;
+    }
+} */
+@media screen and (max-width: 767px) {
+    .banner_main_title {
+        font-size: 35px !important;
+        line-height: 45px !important;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .sub_text {
+        font-size: 14px !important;
+    }
+}
+
+@media screen and (max-width: 350px) {
+    .sub_text {
+        font-size: 13px !important;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .sub_text {
+        font-size: 12px !important;
+    }
+}
+
+/* start slider bottam info  */
+@media screen and (max-width: 1024px) {
+    .move_coverage {
+        padding: 34px 15px 26px 20px !important;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .move_coverage {
+        padding: 20px 15px 20px 15px !important;
+    }
+
+}
+
+/* start manu */
+@media screen and (max-width: 768px) {
+    .main_manu {
+        display: none !important;
+    }
+
+    .mobile_menu {
+        display: block !important;
+    }
+
+}
+
+/* start about */
+@media screen and (max-width: 1024px) {
+    .about_left_img_2 {
+        right: 8% !important;
+    }
+
+    .about_button {
+        display: block !important;
+    }
+
+    .total_about_counter .about_total_icon {
+        right: 433px !important;
+        top: 12px !important;
+    }
+
+    .total_about_counter .about_winning_icon {
+        right: 119px !important;
+        top: 12px !important;
+    }
+
+    .about_divider {
+        margin: 40px 0 15px 0px !important;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .total_about_counter .about_total_icon {
+        right: 305px !important;
+        top: 12px !important;
+    }
+
+    .total_about_counter .about_winning_icon {
+        right: 119px !important;
+        top: 12px !important;
+    }
+
+    .about_left_img_2 {
+        top: 80% !important;
+        right: 8% !important;
+    }
+
+    .about_animation_img_2 {
+        left: 5% !important;
+        top: 585px !important;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .total_cliam {
+        display: block !important;
+        justify-content: center !important;
+    }
+
+    .total_about_counter {
+        margin: 20px 0 0 0;
+        padding: 10px;
+        text-align: center !important;
+    }
+}
+
+/* start why choose insurigo */
+@media screen and (max-width: 1024px) {
+    .why_choose_feu {
+        display: block !important;
+    }
+
+    .why_choose_left_title h2 {
+        font-size: 30px !important;
+        line-height: 42px !important;
+    }
+
+    .main_choose_insurigo {
+        padding: 60px 0 46px 0 !important;
+    }
+
+    .why_choose_right_small_img {
+        left: 50px !important;
+        bottom: 50px !important;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .main_choose_insurigo {
+        padding: 60px 0 10px 0 !important;
+    }
+
+    .why_choose_left_title h2 {
+        font-size: 24px !important;
+        line-height: 34px !important;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .why_choose_right_small_img {
+        left: 50px !important;
+        bottom: 152px !important;
+    }
+}
+
+/* find_right_left */
+@media screen and (max-width: 768px) {
+    .start_find_right_form {
+        margin-left: 0 !important;
+        margin-top: 20px !important;
+    }
+
+    .main_cost_calculate ul.nav li.nav-item {
+        width: 100% !important;
+        margin-bottom: 10px !important;
+    }
+
+    .main_cost_calculate ul.nav li.nav-item button.nav-link {
+        width: 100% !important;
+        text-align: left !important;
+        padding-left: 25px !important;
+    }
+
+    .tab-content .tab-pane img {
+        height: auto !important;
+        max-width: 100% !important;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .start_find_right_form form .right_left_find_btn input[type=submit] {
+        padding: 20px 15px 17px 15px !important;
+    }
+}
+
+/*  */
+@media screen and (max-width: 1024px) {
+    .newsletter_img_anim {
+        right: 250px !important;
+        bottom: 24px !important;
+    }
+
+    .newsletter_img_anim2 {
+        right: 250px !important;
+        bottom: 31px !important;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .newsletter_img_anim {
+        right: 550px !important;
+        bottom: -35px !important;
+    }
+
+    .newsletter_img_anim2 {
+        bottom: -25px !important;
+        right: 550px !important;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .newsletter_form_btn {
+        top: 70px !important;
+        left: 0 !important;
+    }
+}
+
+/* start our partner */
+@media screen and (max-width: 1024px) {
+    .our_partner_title h3 {
+        font-size: 80px !important;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .our_partner_title h3 {
+        font-size: 52px !important;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .our_partner_title h3 {
+        font-size: 49px !important;
+    }
+}
+/* start footer */
+@media screen and (max-width: 425px) {
+    .footer_condtion{
+        padding: 0 !important;
+        flex-direction: column !important;
+        text-align: center !important;
+        margin-top: 20px !important;
+    }
+    .footer_condtion > li{
+        margin-bottom: 10px;
+   }
+}
+@media screen and (max-width: 375px) {
+  .theme_design_name{
+    text-align: center !important;
+  }
+}
+/* service page */
+/* start insurance part */
+@media screen and (max-width: 425px) {
+    .insurance_service_info_img img {
+        height: 201px !important;
+    }
+
+    .our_benefit_counter_list>.counter_services_icon {
+        width: 50px !important;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .our_benefit_counter_list {
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .our_benefit_counter_list>.counter_services_icon {
+        width: 65px !important;
+    }
+
+    .our_benefit_counter_list>.counter_services_text>.counter_services_text_number>h2,
+    .our_benefit_counter_list>.counter_services_text>.counter_services_text_number>span {
+        font-size: 40px !important;
+    }
+
+    .counter_services_text>p {
+        font-size: 18px !important;
+    }
+}
+
+/* our protflio page */
+@media screen and (max-width: 768px) {
+    .portfolio_details_page>h4>a {
+        font-size: 17px !important;
+        text-align: center !important;
+        margin: auto !important;
+        align-items: center !important;
+    }
+}
+
+/* market analysis page */
+@media screen and (max-width: 1024px) {
+    .call_action_info_project_details_number>a {
+        font-size: 18px !important;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .project_details_analysis_page {
+        margin-top: 0px !important;
+        margin-right: -12px;
+    }
+}
+/* start helth category */
+
+/* start our team */
+@media screen and (max-width: 425px) {
+    .meet_some_50_team_title_btn{
+        display: flex !important;
+        justify-content: flex-start !important;
+      }
+      .meet_some_50_team_title > h2{
+        line-height: 35px !important; 
+      }
+}
+/* start team details */
+@media screen and (max-width: 1024px) {
+    .team_details_img_social{
+        right: 39% !important;
+    }
+}
+@media screen and (max-width: 768px) {
+    .team_details_img_social{
+        right: 35% !important;
+    }
+}
+@media screen and (max-width: 425px) {
+    .team_details_img_social{
+        right: 23% !important;
+    }
+}
+@media screen and (max-width: 375px) {
+    .team_details_img_social{
+        right: 18% !important;
+    }
+}
+@media screen and (max-width: 375px) {
+    .team_details_img_social{
+        right: 18% !important;
+    }
+    .education_team_mamber_title_des > .table > tbody > tr > td{
+        padding: 10px 15px !important;
+    }
+}
+@media screen and (max-width: 320px) {
+    .team_details_img_social{
+        right: 16% !important;
+    }
+}
+/* start ins */
+@media screen and (max-width: 768px) {
+    .still_any_queri{
+        margin-right: 0px !important;
+      }
+}
+
+@media screen and (max-width: 320px) {
+    .still_any_queri{
+        flex-direction: column !important;
+        text-align: center !important;
+    }
+    .still_any_queri > p{
+        margin-bottom: 10px !important;
+    }
+}
